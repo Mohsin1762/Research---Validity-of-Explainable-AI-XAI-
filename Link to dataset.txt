@@ -1,0 +1,9 @@
+Main English Dataset:
+https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text
+
+
+Multilingual Dataset:
+https://huggingface.co/datasets/MoritzLaurer/multilingual-NLI-26lang-2mil7
+
+Word2Vec Embedding:
+https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300
